@@ -7,12 +7,12 @@ add_executable(leetcode_tests
     test_two_sum.cpp
     test_add_two_numbers.cpp
     ../src/problems/add-two-numbers/solution.cpp
-    test_longest_solution.cpp
-    ../src/problems/longest-solution/solution.cpp
     test_median_of_two_sorted_arrays.cpp
     ../src/problems/median-of-two-sorted-arrays/solution.cpp
     test_longest_palindromic_substring.cpp
     ../src/problems/longest-palindromic-substring/solution.cpp
+    test_longest_substring.cpp
+    ../src/problems/longest-substring/solution.cpp
 )
 
 # Link Google Test

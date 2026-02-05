@@ -1,4 +1,4 @@
-#include "problems/two-sum/solution.h"
+#include "solution.h"
 #include <unordered_map>
 
 std::vector<int> Solution::twoSum(const std::vector<int>& nums, const int target) {

@@ -33,4 +33,5 @@ add_subdirectory(tests)
 
 # Main executable
 add_executable(leetcode src/main.cpp
+    src/problems/two-sum/solution.cpp
     src/problems/longest-palindromic-substring/solution.cpp)
